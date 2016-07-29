@@ -1,0 +1,1 @@
+pokecli.py -cf 3.json

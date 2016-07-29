@@ -1,0 +1,16 @@
+{
+    "auth_service": "google",
+    "username": "piersrv5@gmail.com",
+    "password": "09021996",
+    "location": "-33.869983240973006,151.194353647368",
+    "gmapkey": "AIzaSyCA-XzNjxHCoz2bGuvILz5fpoh3qQ6Kgr8",
+    "max_steps": 50,
+    "mode": "all",
+    "walk": 20,
+    "debug": false,
+    "test": false,
+    "initial_transfer": 400,
+    "location_cache": true,
+    "distance_unit": "km",
+    "item_filter": "101,102,103,104,701"
+}

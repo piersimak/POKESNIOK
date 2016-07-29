@@ -1,0 +1,1 @@
+pokecli.py -cf 4.json
